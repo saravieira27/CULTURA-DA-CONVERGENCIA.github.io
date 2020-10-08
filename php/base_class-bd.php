@@ -1,10 +1,10 @@
 <?php
 
 class BD{
-	var $servidor = "localhost";
-	var $basedados = "multimedia";
-	var $utilizador = "root";
-	var $password = "";
+	var $servidor = "sql7.freemysqlhosting.net";
+	var $basedados = "sql7369641";
+	var $utilizador = "sql7369641";
+	var $password = "SCrvieira951753";
 	
 	var $ligacao;
 	
